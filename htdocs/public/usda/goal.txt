@@ -1,0 +1,2 @@
+Here you can view the usda nutrition facts, it must be mandatory to add a maped "short name"
+This is not only a SQL requirement, but also a php validation!
